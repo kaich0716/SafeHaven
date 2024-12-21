@@ -31,7 +31,7 @@
 )<br>
 김민진
 
-![권지원](![Screenshot_20241221_145741_Gallery]([https://github.com/user-attachments/assets/3960ed06-74b2-4871-ab5e-4d679a75a480])
+![권지원](Screenshot_20241221_145741_Gallery.jpg)
 )<br>
 권지원
 
