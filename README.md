@@ -27,10 +27,12 @@
 ![한성진](crop_Screenshot_20200324-203647_KakaoTalk.jpg)<br>
 한성진
 
-![김민진](3875148.png)<br>
+![김민진](![Screenshot_20241221_145953_Gallery (1)](https://github.com/user-attachments/assets/654737eb-956b-42ac-b2a4-9f4d390cf545)
+)<br>
 김민진
 
-![권지원](20241221_124620.jpg)<br>
+![권지원](![Screenshot_20241221_145741_Gallery](https://github.com/user-attachments/assets/3960ed06-74b2-4871-ab5e-4d679a75a480)
+)<br>
 권지원
 
 ---
