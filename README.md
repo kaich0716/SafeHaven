@@ -16,10 +16,10 @@
 
 | 이름   | 역할        | 별명    | 사진                                                                 |
 |--------|-------------|---------|----------------------------------------------------------------------|
-| 정짝민 | 팀장 / 백엔드 | 정창미니 | <img src="m6hfgq.jpg" width="150" height="auto" />                   |
-| 한샌즈 | 백엔드      | 진라면  | <img src="crop_Screenshot_20200324-203647_KakaoTalk.jpg" width="150" height="auto" /> |
-| 김민찐 | 프론트엔드  | 지니    | <img src="https://github.com/user-attachments/assets/654737eb-956b-42ac-b2a4-9f4d390cf545" width="150" height="auto" /> |
-| 꿘찌원 | 팀원 관리   | 잼미니  | <img src="Screenshot_20241221_145741_Gallery.jpg" width="150" height="auto" />  |
+| 정창민 | 팀장 / 백엔드 | 정창미니 | <img src="m6hfgq.jpg" width="150" height="auto" />                   |
+| 한성진 | 백엔드      | 진라면  | <img src="crop_Screenshot_20200324-203647_KakaoTalk.jpg" width="150" height="auto" /> |
+| 김민진 | 프론트엔드  | 지니    | <img src="https://github.com/user-attachments/assets/654737eb-956b-42ac-b2a4-9f4d390cf545" width="150" height="auto" /> |
+| 권지원 | 팀원 관리   | 잼미니  | <img src="Screenshot_20241221_145741_Gallery.jpg" width="150" height="auto" />  |
 
 ## 프로젝트 개발 이유
 
@@ -87,50 +87,33 @@
 ## 실행 방법
 
 ### 1. 환경 설정
-1. **프로젝트 클론**
+1. **프로젝트**
    ```bash
-   git clone https://github.com/username/project.git
-   cd project
+ 
    ```
 
 2. **필요한 패키지 설치**
    ```bash
-   npm install
+   
    ```
 
-3. **환경 변수 설정**
-   프로젝트 루트에 `.env` 파일을 생성하고 아래 내용을 추가:
+3. **사용된 모델**
+   프로젝트 루트:
    ```env
-   DB_URL=your_database_url
-   API_KEY=your_api_key
+   
    ```
 
 ### 2. 실행
-1. **개발 서버 실행**
+1. **flask**
    ```bash
-   npm run dev
+
    ```
 
-2. **프로덕션 빌드** (선택 사항)
-   ```bash
-   npm run build
-   npm start
-   ```
-
-### 3. 접속
-   - 로컬에서: `http://localhost:3000`
-   - 배포된 서버: `https://your-deployed-site.com`
+### 3. 실행 영상
+[영상]
 
 ---
 
-## 문의
-
-프로젝트에 대한 문의 사항은 아래로 연락해주세요:
-
-- **이메일**: example@example.com
-- **GitHub Issues**: [링크](https://github.com/username/project/issues)
-- **팀 웹사이트**: [https://team-website.com](https://team-website.com)
+## 마무리 및 인사
 
 ---
-
-감사합니다! 🙌
