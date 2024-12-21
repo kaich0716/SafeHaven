@@ -14,12 +14,12 @@
 
 ### 팀 이름: **세명 같은 네명**
 
-| 이름     | 역할        | 별명      | 사진                                              |
-|----------|-------------|-----------|---------------------------------------------------|
-| 정짝민   | 팀장 / 백엔드 | 정창미니   | <img src="m6hfgq.jpg" width="300" height="300" /> |
-| 한샌즈   | 백엔드      | 진라면     | <img src="crop_Screenshot_20200324-203647_KakaoTalk.jpg" width="300" height="300" /> |
-| 김민찐   | 프론트엔드  | 지니       | <img src="https://github.com/user-attachments/assets/654737eb-956b-42ac-b2a4-9f4d390cf545" width="300" height="300" /> |
-| 꿘찌원   | 팀원 관리   | 잼미니     | <img src="Screenshot_20241221_145741_Gallery.jpg" width="300" height="300" /> |
+| 이름   | 역할        | 별명    | 사진                                                                 |
+|--------|-------------|---------|----------------------------------------------------------------------|
+| 정짝민 | 팀장 / 백엔드 | 정창미니 | <img src="m6hfgq.jpg" width="150" height="auto" />                   |
+| 한샌즈 | 백엔드      | 진라면  | <img src="crop_Screenshot_20200324-203647_KakaoTalk.jpg" width="150" height="auto" /> |
+| 김민찐 | 프론트엔드  | 지니    | <img src="https://github.com/user-attachments/assets/654737eb-956b-42ac-b2a4-9f4d390cf545" width="150" height="auto" /> |
+| 꿘찌원 | 팀원 관리   | 잼미니  | <img src="Screenshot_20241221_145741_Gallery.jpg" width="150" height="auto" />  |
 
 ## 프로젝트 개발 이유
 
