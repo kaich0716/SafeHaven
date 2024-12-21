@@ -1,6 +1,6 @@
 # SafeHaven 팀 프로젝트 소개
  
-![프로젝트 로고](https://via.placeholder.com/200)
+![프로젝트 로고](184EC93A4F3E0D5326.jpeg)
 
 ## 목차
 - [팀 소개](#팀-소개)
