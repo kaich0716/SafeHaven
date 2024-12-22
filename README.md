@@ -19,7 +19,7 @@
 |--------|------------------------|---------|----------------------------------------------------------------------|
 | <div style="text-align: center;">정창민</div> | <div style="text-align: center;">팀장 / 백엔드</div> | <div style="text-align: center;">창미니</div>  | <div style="text-align: center;"><img src="m6hfgq.jpg" width="150" height="auto" /></div>                   |
 | <div style="text-align: center;">한성진</div> | <div style="text-align: center;">부팀장 / 백엔드</div> | <div style="text-align: center;">진라면</div>  | <div style="text-align: center;"><img src="crop_Screenshot_20200324-203647_KakaoTalk.jpg" width="150" height="auto" /></div> |
-| <div style="text-align: center;">김민진</div> | <div style="text-align: center;">프로그래머 / 프론트엔드</div> | <div style="text-align: center;">지니</div>    | <div style="text-align: center;"><img src="https://github.com/user-attachments/assets/654737eb-956b-42ac-b2a4-9f4d390cf545" width="150" height="auto" /></div> |
+| <div style="text-align: center;">김민진</div> | <div style="text-align: center;">프로그래머 / 백엔드</div> | <div style="text-align: center;">지니</div>    | <div style="text-align: center;"><img src="https://github.com/user-attachments/assets/654737eb-956b-42ac-b2a4-9f4d390cf545" width="150" height="auto" /></div> |
 | <div style="text-align: center;">권지원</div> | <div style="text-align: center;">엔지니어 / 관리 및 보조</div> | <div style="text-align: center;">잼미니</div>  | <div style="text-align: center;"><img src="Screenshot_20241221_145741_Gallery.jpg" width="150" height="auto" /></div>  |
 
 ## 프로젝트 개발 이유
@@ -32,8 +32,8 @@
 2. **목표**: 목표는 폭력을 예방하고, 피해자를 보호하며, 폭력적인 행동이 사회에서 뿌리내리지 않도록 하는 것이다.
 
 ### 기술 스택:
-- **프론트엔드**: html, css
 - **백엔드**: Flask, OpenCV, MediaPipe
+![다운로드 (1)](https://github.com/user-attachments/assets/30fd8ec8-c2bd-45ef-8332-d55d88f90d26)
 ---
 
 ## 실행 방법
