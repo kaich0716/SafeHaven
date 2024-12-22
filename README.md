@@ -1,4 +1,4 @@
-# SafeHaven 팀 프로젝트 소개
+# 세명같은네명 팀 프로젝트 소개
  
 <img src="https://github.com/user-attachments/assets/9c50e0d2-adb6-4cb4-9805-d8b81fac070f" alt="프로젝트 로고" width="300" height="auto" />
 
