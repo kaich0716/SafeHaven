@@ -22,6 +22,8 @@
 | <div style="text-align: center;">김민진</div> | <div style="text-align: center;">프로그래머 / 백엔드</div> | <div style="text-align: center;">지니</div>    | <div style="text-align: center;"><img src="https://github.com/user-attachments/assets/654737eb-956b-42ac-b2a4-9f4d390cf545" width="150" height="auto" /></div> |
 | <div style="text-align: center;">권지원</div> | <div style="text-align: center;">엔지니어 / 관리 및 보조</div> | <div style="text-align: center;">잼미니</div>  | <div style="text-align: center;"><img src="Screenshot_20241221_145741_Gallery.jpg" width="150" height="auto" /></div>  |
 
+## 프로젝트 이름: **폭력이 없어지는 그날까지**
+
 ## 프로젝트 개발 이유
 
 팀원들과 주제를 찾던 중 뉴스로 폭행에 관련된 뉴스를 보게 되었습니다.<br>
@@ -63,8 +65,6 @@ https://github.com/user-attachments/assets/8a2979fb-425d-4513-854f-1ddeee5d4ca0
 
 ---
 ## 프로젝트 개요
-
-### 프로젝트 이름: **폭력이 없어지는 그날까지**
 
 ### 주요 기능(MVP):
 - **기능**: 캠에서 사람의 손을 인식하여 설정 좌표값에서 얼마나 빨리 이동하는지에 따라 위협이 뜬다.
