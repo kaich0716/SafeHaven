@@ -1,7 +1,6 @@
 # SafeHaven 팀 프로젝트 소개
  
-![프로젝트 로고](![fist-red-forbidden-sign-violence-260nw-1946739697](https://github.com/user-attachments/assets/9c50e0d2-adb6-4cb4-9805-d8b81fac070f)
-)
+<img src="https://github.com/user-attachments/assets/9c50e0d2-adb6-4cb4-9805-d8b81fac070f" alt="프로젝트 로고" width="300" height="auto" />
 
 ## 목차
 - [팀 소개](#팀-소개)
