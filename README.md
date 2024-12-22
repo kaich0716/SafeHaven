@@ -82,7 +82,7 @@
 
 ### 기술 스택:
 - **프론트엔드**: html, css
-- **백엔드**: Flask
+- **백엔드**: Flask, OpenCV, MediaPipe
 ---
 
 ## 실행 방법
