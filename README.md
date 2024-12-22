@@ -16,7 +16,7 @@
 
 | 이름   | 역할        | 별명    | 사진                                                                 |
 |--------|-------------|---------|----------------------------------------------------------------------|
-| 정창민 | 팀장 / 백엔드 | 정창미니 | <img src="m6hfgq.jpg" width="150" height="auto" />                   |
+| 정창민 | 팀장 / 백엔드 | 창미니 | <img src="m6hfgq.jpg" width="150" height="auto" />                   |
 | 한성진 | 백엔드      | 진라면  | <img src="crop_Screenshot_20200324-203647_KakaoTalk.jpg" width="150" height="auto" /> |
 | 김민진 | 프론트엔드  | 지니    | <img src="https://github.com/user-attachments/assets/654737eb-956b-42ac-b2a4-9f4d390cf545" width="150" height="auto" /> |
 | 권지원 | 팀원 관리   | 잼미니  | <img src="Screenshot_20241221_145741_Gallery.jpg" width="150" height="auto" />  |
