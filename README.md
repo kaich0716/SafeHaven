@@ -34,7 +34,7 @@
 2. **목표**: 목표는 폭력을 예방하고, 피해자를 보호하며, 폭력적인 행동이 사회에서 뿌리내리지 않도록 하는 것이다.
 
 ### 기술 스택:
-- **백엔드**: OpenCV, MediaPipe, mediapipe
+- **백엔드**: OpenCV, MediaPipe
 
 ![다운로드 (1)](https://github.com/user-attachments/assets/30fd8ec8-c2bd-45ef-8332-d55d88f90d26)
 ---
