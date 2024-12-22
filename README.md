@@ -33,7 +33,8 @@
 
 ### 기술 스택:
 - **백엔드**: Flask, OpenCV, MediaPipe
-![다운로드 (1)](https://github.com/user-attachments/assets/30fd8ec8-c2bd-45ef-8332-d55d88f90d26)
+
+|![다운로드 (1)](https://github.com/user-attachments/assets/30fd8ec8-c2bd-45ef-8332-d55d88f90d26)|
 ---
 
 ## 실행 방법
