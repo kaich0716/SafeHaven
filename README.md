@@ -7,6 +7,7 @@
 - [프로젝트 개발 이유](#프로젝트-개발-이유)
 - [프로젝트 개요](#프로젝트-개요)
 - [실행 방법](#실행-방법)
+- [실행 영상](#실행-영상)
 - [마무리 및 인사](#마무리-및-인사)
 
 ---
@@ -14,12 +15,12 @@
 
 ### 팀 이름: **세명 같은 네명**
 
-| 이름   | 역할        | 별명    | 사진                                                                 |
-|--------|-------------|---------|----------------------------------------------------------------------|
-| 정창민 | 팀장 / 백엔드 | 창미니 | <img src="m6hfgq.jpg" width="150" height="auto" />                   |
-| 한성진 | 백엔드      | 진라면  | <img src="crop_Screenshot_20200324-203647_KakaoTalk.jpg" width="150" height="auto" /> |
-| 김민진 | 프론트엔드  | 지니    | <img src="https://github.com/user-attachments/assets/654737eb-956b-42ac-b2a4-9f4d390cf545" width="150" height="auto" /> |
-| 권지원 | 팀원 관리   | 잼미니  | <img src="Screenshot_20241221_145741_Gallery.jpg" width="150" height="auto" />  |
+| 이름   | 역할                   | 별명    | 사진                                                                 |
+|--------|------------------------|---------|----------------------------------------------------------------------|
+| <div style="text-align: center;">정창민</div> | <div style="text-align: center;">팀장 / 백엔드</div> | <div style="text-align: center;">창미니</div>  | <div style="text-align: center;"><img src="m6hfgq.jpg" width="150" height="auto" /></div>                   |
+| <div style="text-align: center;">한성진</div> | <div style="text-align: center;">부팀장 / 백엔드</div> | <div style="text-align: center;">진라면</div>  | <div style="text-align: center;"><img src="crop_Screenshot_20200324-203647_KakaoTalk.jpg" width="150" height="auto" /></div> |
+| <div style="text-align: center;">김민진</div> | <div style="text-align: center;">프로그래머 / 프론트엔드</div> | <div style="text-align: center;">지니</div>    | <div style="text-align: center;"><img src="https://github.com/user-attachments/assets/654737eb-956b-42ac-b2a4-9f4d390cf545" width="150" height="auto" /></div> |
+| <div style="text-align: center;">권지원</div> | <div style="text-align: center;">엔지니어 / 관리 및 보조</div> | <div style="text-align: center;">잼미니</div>  | <div style="text-align: center;"><img src="Screenshot_20241221_145741_Gallery.jpg" width="150" height="auto" /></div>  |
 
 ## 프로젝트 개발 이유
 
@@ -109,7 +110,7 @@
 
    ```
 
-### 3. 실행 영상
+### . 실행 영상
 [영상]
 
 ---
