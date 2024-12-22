@@ -50,12 +50,14 @@
    ```bash
    python --version
    ```
+   https://www.anaconda.com/
 
 2. **필요한 패키지 설치**
    ```bash
    pip install opencv-python
    
    pip install mediapipe
+   ```
 
 3. **사용된 모델**
    프로젝트 루트:
