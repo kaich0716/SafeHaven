@@ -48,7 +48,7 @@
 ### 1. 환경 설정
 1. **프로젝트**
    ```bash
- python --version
+   python --version
    ```
 
 2. **필요한 패키지 설치**
