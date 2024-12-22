@@ -52,9 +52,7 @@
    pip install mediapipe
    ```
 ### . 실행 영상
-[영상]
-https://youtu.be/q4cO5UrCYy0
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4cO5UrCYy0?si=cFl9eyN-maTr_jAy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div><iframe width="560" height="315" src="https://www.youtube.com/embed/q4cO5UrCYy0?si=cFl9eyN-maTr_jAy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 ---
 ## 프로젝트 개요
 
